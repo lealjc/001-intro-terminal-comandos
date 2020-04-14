@@ -1,0 +1,9 @@
+Índice de nombres y contenido de archivos:
+
+VABCOEL_2.xlsx/Valores corrientes en millones de pesos
+VABCOEL_3.xlsx/Valores constantes base 2013 en millones de pesos
+VABCOEL_4.xlsx/Índice de precios implícitos base 2013=100
+VABCOEL_5.xlsx/Distribución por actividad económica
+VABCOEL_6.xlsx/Participación según la actividad económica conforme al total de cada actividad
+VABCOEL_7.xlsx/Participación en el valor agregado brunto total
+VABCOEL_8.xlsx/Participación en el Producto interno bruto total
